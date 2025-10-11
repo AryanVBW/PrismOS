@@ -7,5 +7,5 @@
   <text x="160" y="205" font-family="monospace" font-size="16" fill="#c7ffd1">[OK] firmware blobs present</text>
   <text x="160" y="230" font-family="monospace" font-size="16" fill="#c7ffd1">[DRYRUN] would create APFS volume: PrismOS-stub</text>
   <text x="160" y="255" font-family="monospace" font-size="16" fill="#a9f7b3">Run without --check to perform the installation</text>
-  <text x="640" y="640" font-family="monospace" font-size="13" fill="#6b7280" text-anchor="middle">Filename: Installation Guide docs/images/05-run-installer.svg — replace with real capture when available</text>
+  <text x="640" y="640" font-family="monospace" font-size="13" fill="#6b7280" text-anchor="middle">Filename: images/05-run-installer.svg — replace with real capture when available</text>
 </svg>

@@ -12,5 +12,5 @@
   <text x="720" y="255" font-family="monospace" font-size="14" fill="#374151">uname -m: x86_64</text>
   <text x="720" y="275" font-family="monospace" font-size="14" fill="#374151">python --version: Python 3.12.1</text>
   <text x="720" y="295" font-family="monospace" font-size="14" fill="#374151">git --version: git version 2.50.1</text>
-  <text x="640" y="640" font-family="monospace" font-size="13" fill="#6b7280" text-anchor="middle">Filename: Installation Guide docs/images/01-about-this-mac.svg — replace with real capture when available</text>
+  <text x="640" y="640" font-family="monospace" font-size="13" fill="#6b7280" text-anchor="middle">Filename: images/01-about-this-mac.svg — replace with real capture when available</text>
 </svg>

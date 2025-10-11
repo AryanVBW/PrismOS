@@ -7,5 +7,5 @@
   <text x="200" y="220" font-family="monospace" font-size="16" fill="#3b2f2f">Name: PRISMOS-RESCUE</text>
   <rect x="200" y="260" width="320" height="120" rx="6" fill="#eef2ff"/>
   <text x="360" y="300" font-family="monospace" font-size="14" fill="#0f172a">Use this USB as rescue media for installing PrismOS</text>
-  <text x="640" y="640" font-family="monospace" font-size="13" fill="#6b7280" text-anchor="middle">Filename: Installation Guide docs/images/03-prepare-usb.svg — replace with real capture when available</text>
+  <text x="640" y="640" font-family="monospace" font-size="13" fill="#6b7280" text-anchor="middle">Filename: images/03-prepare-usb.svg — replace with real capture when available</text>
 </svg>

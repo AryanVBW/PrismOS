@@ -62,8 +62,8 @@ High-level steps:
   - or run in Terminal: `sysctl -n machdep.cpu.brand_string || uname -m`
 - Make a full backup. Use Time Machine or copy your home folder to an external drive.
 
-![About This Mac](Installation Guide docs/images/01-about-this-mac.svg)
-Placeholder screenshot: `Installation Guide docs/images/01-about-this-mac.svg`
+![About This Mac](images/01-about-this-mac.svg)
+Placeholder screenshot: `images/01-about-this-mac.svg`
 
 ### 2) Clone or download PrismOS
 
@@ -77,8 +77,8 @@ cd PrismOS
 
 If you already have the repo, `git pull` to update. Verify files like `install.sh`, `osinstall.py`, and `asahi_firmware/` exist.
 
-![Clone Repo](Installation Guide docs/images/02-clone-repo.svg)
-Placeholder screenshot: `Installation Guide docs/images/02-clone-repo.svg`
+![Clone Repo](images/02-clone-repo.svg)
+Placeholder screenshot: `images/02-clone-repo.svg`
 
 ### 3) Prepare the installer and rescue media
 
@@ -108,8 +108,8 @@ less install.sh
 ./install.sh --dry-run
 ```
 
-![Prepare USB](Installation Guide docs/images/03-prepare-usb.svg)
-Placeholder screenshot: `Installation Guide docs/images/03-prepare-usb.svg`
+![Prepare USB](images/03-prepare-usb.svg)
+Placeholder screenshot: `images/03-prepare-usb.svg`
 
 ### 4) Boot into Recovery to adjust security (if required)
 
@@ -122,8 +122,8 @@ Apple Silicon requires shutting down and booting into recovery by holding the po
 
 Important: Re-enable stricter security after installation if you lower it.
 
-![Recovery Options](Installation Guide docs/images/04-recovery-options.svg)
-Placeholder screenshot: `Installation Guide docs/images/04-recovery-options.svg`
+![Recovery Options](images/04-recovery-options.svg)
+Placeholder screenshot: `images/04-recovery-options.svg`
 
 ### 5) Install PrismOS
 
@@ -147,8 +147,8 @@ What the script typically does (read the script to confirm):
 
 If the installer offers a "dry-run" or "--no-write" flag, prefer that first.
 
-![Run Installer](Installation Guide docs/images/05-run-installer.svg)
-Placeholder screenshot: `Installation Guide docs/images/05-run-installer.svg`
+![Run Installer](images/05-run-installer.svg)
+Placeholder screenshot: `images/05-run-installer.svg`
 
 ### 6) Post-install verification and cleanup
 
@@ -166,8 +166,8 @@ journalctl -b | head -n 200
 
 - Restore security settings in Recovery -> Startup Security Utility if you changed them.
 
-![First Boot](Installation Guide docs/images/06-first-boot.svg)
-Placeholder screenshot: `Installation Guide docs/images/06-first-boot.svg`
+![First Boot](images/06-first-boot.svg)
+Placeholder screenshot: `images/06-first-boot.svg`
 
 ---
 
@@ -201,7 +201,7 @@ rsvg-convert -w 1280 -h 720 -o 01-about-this-mac.png 01-about-this-mac.svg
 magick convert -background none -resize 1280x720 01-about-this-mac.svg 01-about-this-mac.png
 ```
 
-Note: This dev environment does not include SVG->PNG conversion tools, so I did not generate PNGs here. If you run the commands above locally and push PNGs to `Installation Guide docs/images/`, I can update the docs in a follow-up PR.
+Note: This dev environment does not include SVG->PNG conversion tools, so I did not generate PNGs here. If you run the commands above locally and push PNGs to `images/`, I can update the docs in a follow-up PR.
 
 ---
 

@@ -6,5 +6,5 @@
   <text x="220" y="190" font-family="monospace" font-size="16" fill="#0f172a">Restart and hold the power button until "Loading startup options" appears.</text>
   <text x="220" y="220" font-family="monospace" font-size="16" fill="#0f172a">Choose: Options → Continue → Utilities → Startup Security Utility</text>
   <text x="220" y="260" font-family="monospace" font-size="16" fill="#0f172a">Set External Boot: Allow booting from external media (temporary)</text>
-  <text x="640" y="640" font-family="monospace" font-size="13" fill="#6b7280" text-anchor="middle">Filename: Installation Guide docs/images/04-recovery-options.svg — replace with real capture when available</text>
+  <text x="640" y="640" font-family="monospace" font-size="13" fill="#6b7280" text-anchor="middle">Filename: images/04-recovery-options.svg — replace with real capture when available</text>
 </svg>
