@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="100%" height="100%" fill="#fffaf6"/>
+  <rect x="60" y="60" width="1160" height="600" rx="8" fill="#ffffff" stroke="#fff0e0"/>
+  <text x="640" y="100" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#3a2b1f" text-anchor="middle">First Boot — Logs (mock)</text>
+  <rect x="120" y="140" width="1040" height="460" rx="6" fill="#0b1220"/>
+  <text x="160" y="180" font-family="monospace" font-size="14" fill="#dbe7ff">[    0.000000] Initializing PrismOS kernel</text>
+  <text x="160" y="200" font-family="monospace" font-size="14" fill="#dbe7ff">[    0.123456] asahi_firmware: loaded WiFi firmware</text>
+  <text x="160" y="220" font-family="monospace" font-size="14" fill="#dbe7ff">[    0.456789] network: wlan0: link is up</text>
+  <text x="160" y="240" font-family="monospace" font-size="14" fill="#dbe7ff">[    0.789012] prism-touch: trackpad initialized</text>
+  <text x="640" y="640" font-family="monospace" font-size="13" fill="#6b7280" text-anchor="middle">Filename: Installation Guide docs/images/06-first-boot.svg — replace with real capture when available</text>
+</svg>
