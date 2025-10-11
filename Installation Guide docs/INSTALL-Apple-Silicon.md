@@ -118,8 +118,7 @@ Apple Silicon requires shutting down and booting into recovery by holding the po
 - Shutdown your Mac
 - Press and hold the power button until "Loading startup options" appears
 - Click Options -> Continue -> Utilities -> Startup Security Utility
-- If you need to allow external booting, set "External boot" to "Allow booting from external media" and reduce Secure Boot to "Medium Security" or similar
-
+- If you need to allow external booting, set "Allow booting from external or removable media" and set Secure Boot to "Reduced Security"
 Important: Re-enable stricter security after installation if you lower it.
 
 ![Recovery Options](images/04-recovery-options.svg)
