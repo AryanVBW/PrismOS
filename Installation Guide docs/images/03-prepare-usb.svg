@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="100%" height="100%" fill="#fffdfa"/>
+  <rect x="60" y="60" width="1160" height="600" rx="8" fill="#ffffff" stroke="#f1e7d6"/>
+  <text x="640" y="100" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#3b2f2f" text-anchor="middle">Prepare USB — Disk Utility Mock</text>
+  <rect x="140" y="140" width="1000" height="460" rx="6" fill="#ffffff" stroke="#efe6d6"/>
+  <text x="200" y="190" font-family="monospace" font-size="16" fill="#3b2f2f">Select USB Drive → Erase → Format: Mac OS Extended (Journaled)</text>
+  <text x="200" y="220" font-family="monospace" font-size="16" fill="#3b2f2f">Name: PRISMOS-RESCUE</text>
+  <rect x="200" y="260" width="320" height="120" rx="6" fill="#eef2ff"/>
+  <text x="360" y="300" font-family="monospace" font-size="14" fill="#0f172a">Use this USB as rescue media for installing PrismOS</text>
+  <text x="640" y="640" font-family="monospace" font-size="13" fill="#6b7280" text-anchor="middle">Filename: images/03-prepare-usb.svg — replace with real capture when available</text>
+</svg>

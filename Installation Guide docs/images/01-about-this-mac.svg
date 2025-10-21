@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="100%" height="100%" fill="#f6f8fa"/>
+  <rect x="60" y="60" width="1160" height="600" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="640" y="100" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#0f172a" text-anchor="middle">About This Mac — Mock Capture</text>
+  <rect x="140" y="140" width="1000" height="460" rx="6" fill="#f8fafc" stroke="#e6eef8"/>
+  <text x="220" y="190" font-family="monospace" font-size="16" fill="#0f172a">Model Name: MacBook Pro</text>
+  <text x="220" y="220" font-family="monospace" font-size="16" fill="#0f172a">Chip: Apple M? (replace with your model)</text>
+  <text x="220" y="250" font-family="monospace" font-size="16" fill="#0f172a">Memory: 16 GB</text>
+  <text x="220" y="280" font-family="monospace" font-size="16" fill="#0f172a">macOS Version: macOS 14.x</text>
+  <rect x="720" y="200" width="360" height="220" rx="4" fill="#0f172a" opacity="0.03"/>
+  <text x="720" y="230" font-family="monospace" font-size="14" fill="#374151">Local machine sample outputs (dev container):</text>
+  <text x="720" y="255" font-family="monospace" font-size="14" fill="#374151">uname -m: x86_64</text>
+  <text x="720" y="275" font-family="monospace" font-size="14" fill="#374151">python --version: Python 3.12.1</text>
+  <text x="720" y="295" font-family="monospace" font-size="14" fill="#374151">git --version: git version 2.50.1</text>
+  <text x="640" y="640" font-family="monospace" font-size="13" fill="#6b7280" text-anchor="middle">Filename: images/01-about-this-mac.svg — replace with real capture when available</text>
+</svg>

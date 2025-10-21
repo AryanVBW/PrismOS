@@ -29,6 +29,10 @@ The PrismOS Installer is a community-driven project that extends the groundbreak
 -   **Safe & Non-Destructive**: Installs alongside macOS without removing it. The installer safely resizes your existing macOS partition.
 -   **Firmware Extraction**: Automatically extracts the necessary firmware from your macOS installation to make hardware like Wi-Fi and Bluetooth work correctly.
 
+## Installation Documentation
+
+For a detailed, step-by-step installation guide for Apple Silicon Macs (M1/M2/M3/M4), see `docs/INSTALL-Apple-Silicon.md`.
+
 ## ⚙️ How It Works
 
 Installing Linux on Apple Silicon is a complex, two-stage process that the installer automates.
